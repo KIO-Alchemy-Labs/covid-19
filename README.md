@@ -4,6 +4,10 @@ Sitio informativo sobre propagación de el COVID-19
 
 [Pandemia Alchemy Labs](https://pandemia.alchemylabs.cloud/) – Visita la página en vivo para contestar el cuestionario
 
+## Introducción
+
+ *por completar*
+ 
 ## ¿Quiénes somos? 
 
 [alchemylabs.cloud](https://alchemylabs.cloud/) – Visita nuestro sitio web
