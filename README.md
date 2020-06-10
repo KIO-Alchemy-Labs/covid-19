@@ -2,7 +2,8 @@
 
 Sitio informativo sobre propagación de el COVID-19
 
-[Pandemia Alchemy Labs](https://pandemia.alchemylabs.cloud/) – Visita la página en vivo para contestar el cuestionario
+[Pandemia Alchemy Labs](https://pandemia.alchemylabs.cloud/) – Visita la página en vivo para saber ¿Qué pasará ahora? y conocer los posibles escenarios futuros de la COVID-19 explicados con simulaciones. Estas simulaciones fueron creadas originalmente por Marcel Salathé (epidemiólogo) & Nicky Case (arte/código) y fue traducido al español Latinoamericano.
+
 
 ## Introducción
 
